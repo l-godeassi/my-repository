@@ -1,0 +1,14 @@
+body{
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+img{
+    height: 500px;
+    width: 700px;
+}
+
+h2{
+    font-family: inherit;
+}
