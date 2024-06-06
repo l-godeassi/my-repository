@@ -1,0 +1,48 @@
+
+.cards {
+  /*  allineo in senso orizzontale tutte le cards*/
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+    
+}
+  
+  
+.card {
+  border: 2px solid rgb(96, 139, 168);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin:10px 10px;
+  padding:5px;
+  background-color: aqua;
+}
+  
+.card .content {
+  margin-bottom: auto;
+
+}
+  
+h1{
+  text-align: center;
+  color: darkred;
+}
+
+nav a{
+  color: aqua;
+  background-color: gray;
+  border: 2px solid black;
+  border-radius: 15px;
+  padding: 12px 36px;
+}
+  
+a:hover{
+  color: aquamarine;
+  background-color: rgb(83, 78, 78);
+}
+
+/*         _
+       .__(.)< (MEOW)
+        \___)   
+ ~~~~~~~~~~~~~~~~~~*/
